@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/System67-sys/System67-sys/output/snake.svg" alt="Snake animation" />
-
-###
