@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=System67-sys&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=true&custom_title=Lenguajes%20Conocidos" height="110" alt="languages graph"  />
 </div>
@@ -26,7 +24,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="http://www.youtube.com/@menosfps3361" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="25" alt="youtube logo"  />
   </a>
